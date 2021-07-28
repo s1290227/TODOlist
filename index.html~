@@ -1,0 +1,8 @@
+  <textarea id="inputText" ></textarea>
+  <input type="button" id="addButton" value="タスクを追加">
+  <br>
+  <input type="button" id="rmButton" value="消去">
+  <div id="outputText"></div>
+  <ol id="list">
+ 
+  </ol>
